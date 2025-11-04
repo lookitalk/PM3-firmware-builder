@@ -6,9 +6,9 @@
     
     ],
     "standaloneList": [
-        "HF_UNISNIFF",
-        "HF_ICECLASS"
-       ],
+        "HF_UNISNIFF"
+       
+    ],
     "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM": "PM3GENERIC",
     "//": "parameter for all firmware, leave it blank to use the default value",
