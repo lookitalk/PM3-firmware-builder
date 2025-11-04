@@ -6,13 +6,13 @@
     
     ],
     "standaloneList": [
-        "HF_14ASNIFF",
-        "LF_SAMYRUN"
-    ],
+        "HF_UNISNIFF",
+        "HF_ICECLASS"
+       ],
     "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM": "PM3GENERIC",
     "//": "parameter for all firmware, leave it blank to use the default value",
-    "PLATFORM_EXTRAS": "",
+    "PLATFORM_EXTRAS": "FLASH",
     "//": "parameter for all firmware, empty(default), 256 or 512",
     "PLATFORM_SIZE": "",
     "//": "extra options will be defined as xxx=1",
