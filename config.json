@@ -2,8 +2,8 @@
     "//": "You will get len(refs) * len(standaloneList) firmwares",
     "refs": [
         "master",
-        "v4.15864",
-        "v4.13441"
+        "v4.16717"
+    
     ],
     "standaloneList": [
         "HF_14ASNIFF",
